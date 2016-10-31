@@ -2,12 +2,12 @@
 title: Tools and Integrations
 ---
 
-This page lists user-friendly tools for creating and working with Data Packages.  It also lists integrations for working with Data Packages using popular existing tools.  If you are a developer, you can find software libraries to load and manage Data Packages in your language of choice.
+This page lists user-friendly tools that we've developed as part of the Training Provider Outcomes Toolkit for securely collecting, connecting, analyzing, aggregating, and publishing data on wage and employment outcomes for education and training participants.  It also lists integrations for working with DataatWork outputs using popular existing tools. Because we are building using the Open Knowledge Foundation's Data Package standard many of the tools below are general Data Package tools that can be used by institutions beyond the Training Data Package use case. If you are a developer, you can find software libraries to load and manage Skills and Training Data Packages in your language of choice.
 
 * ToC
 {:toc}
 
-## Quick Start Tools for Data Packages
+## Quick Start Tools for Training Provider Data Packages
 
 ### View
 
@@ -23,14 +23,15 @@ This page lists user-friendly tools for creating and working with Data Packages.
 
 ### Validate
 
-[Online validator][validate-app] that checks your <code>datapackage.json</code> and Data Package are good to go.
+[Online validator][validate-app] that checks your <code>datapackage.json</code> and Training Data Package are good to go.
 
 [validate-app]: http://data.okfn.org/tools/validate
 
 ## Guides
 
-* Creating and using Data Packages in Python *coming soon*
-* Creating and using Data Packages in R *coming soon*
+* Creating and using Training Data Packages in Python *coming soon*
+* Creating and using Skills Data Packages in Python *coming soon*
+* Creating and using Training Data Packages in R *coming soon*
 
 ## Libraries
 

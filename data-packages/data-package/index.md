@@ -1,7 +1,7 @@
 ---
-title: Data Package
+title: Training Provider Data Package
 redirect_to: 
-  - http://specs.frictionlessdata.io/data-packages/
+  - http://specs.dataatwork.org/training-data-packages/
 ---
 
-Read the full standard [here](http://specs.frictionlessdata.io/data-packages/).
+Training Provider Data Packages are based on the Open Knowledge Foundation's Data Packaged standard. Read the full standard [here](http://specs.dataatwork.org/data-packages/).

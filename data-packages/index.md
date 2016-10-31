@@ -1,10 +1,10 @@
 ---
-title: Data Packages
+title: Training Provider Data Packages
 redirect_from: /standards/
 ---
 
-At its core, Frictionless Data is driven by the
-[Data Package specification][dp], a simple format for packaging data
+At its core, Training Provider Outcomes Data is driven by the
+[Training Provider Data Package specification][dp], a simple format for packaging training provider data based on the Open Knowledge Foundation's [Data Package specification][dp]
 for sharing between tools and people. Associated specifications
 include [Tabular Data Package][tdp], a format for packaging tabular
 data, [JSON Table Schema][jts], a specification for defining a

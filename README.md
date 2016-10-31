@@ -1,12 +1,12 @@
-FrictionlessData.io - the Frictionless Data project website.
+Dataatwork.org - the Data@Work project website.
 
 ## Contributing
 
-See <http://frictionlessdata.io/about/edit-site/>
+See <http://dataatwork.org/about/edit-site/>
 
 ## Theme
 
-This uses the Handbook Theme:
+This uses the OKFN Handbook Theme:
 
 <https://github.com/okfn/handbook-theme>
 

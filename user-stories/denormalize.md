@@ -10,26 +10,26 @@ so-that: I can load my data into tools that don’t support multiple tables
 
 *As a {{ page.as-a }}, I want {{ page.want }} so that {{ page.so-that }}*
 
-As an example, I have two files: `spending.csv` and `supplier.csv`
+As an example, I have two files: `participants.csv` and `programs.csv`
 that I have Data Packaged.  In the `datapackage.json` (see
 [below](#original-data-package)), I have defined a
-[foreign key](http://specs.frictionlessdata.io/json-table-schema/#foreign-keys)
+[foreign key](http://specs.dataatwork.org/json-table-schema/#foreign-keys)
 relationship between these two resources.
 
-`# spending.csv`
+`# participants.csv`
 
-| Amount | SupplierID |
+| ParticipanID | ProgramID |
 |---|---|
-| 100 | 1 |
+| 1234 | 4321 |
 
-`# supplier.csv`
+`# programs.csv`
 
 | ID | Name |
 |---|---|
-| 1 | Jones Ltd |
+| 1234 | Ruby Bootcamp |
 
 [DPM](https://github.com/okfn/dpm) is a command line tool for working
-with Data Packages.  At the simplest level, it would be ideal for `dpm
+with Training Data Packages.  At the simplest level, it would be ideal for `dpm
 merge mydatapackage` to generate the following CSV data on standard
 output.  This would be roughly equivalent to the output of the
 following `csvsql` (see
@@ -37,17 +37,17 @@ following `csvsql` (see
 command:
 
 ```
-csvsql --query 'SELECT Amount,SupplierID,Name AS supplier_Name            \\
-                FROM spending                                             \\
-                INNER JOIN supplier                                       \\ 
-                ON spending.SupplierID=supplier.ID'                       \\
-spending.csv supplier.csv 
+csvsql --query 'SELECT ParticipantID,ProgramID,Name AS program_Name            \\
+                FROM participants                                             \\
+                INNER JOIN programs                                      \\ 
+                ON participants.ProgramID=programs.ID'                       \\
+participants.csv programs.csv 
 
 ```
 
-| Amount |  SupplierID | supplier_Name |
+| ParticipantID |  ProgramID | program_Name |
 |---|---|---|
-| 100 | 1 | Jones Ltd |
+| 1234 | 4321 | Ruby Bootcamp |
 
 Here are some options for the command:
 
@@ -64,27 +64,27 @@ Here are some options for the command:
 
 ```
 {
-  "name": "spending-supplier",
+  "name": "participant-program",
   "resources": [
     {
-      "name": "spending",
-      "path": "spending.csv",
+      "name": "participants",
+      "path": "participants.csv",
       "schema": {
         "fields": [
           {
-            "name": "Amount",
+            "name": "ParticipantID",
             "type": "integer"
           },
           {
-            "name": "SupplierID",
+            "name": "ProgramID",
             "type": "integer"
           }
         ],
         "foreignKeys": [
           {
-            "fields": "SupplierID",
+            "fields": "ProgramID",
             "reference": {
-              "resource": "supplier",
+              "resource": "programs",
               "fields": "ID"
             }
           }
@@ -92,8 +92,8 @@ Here are some options for the command:
       }
     },
     {
-      "name": "supplier",
-      "path": "supplier.csv",
+      "name": "programs",
+      "path": "programs.csv",
       "schema": {
         "fields": [
           {

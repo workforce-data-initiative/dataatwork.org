@@ -1,14 +1,14 @@
 # Site settings
-title: Frictionless Data
-short_title: Frictionless Data
+title: Data at Work
+short_title: Data at Work
 description: |
-  Lightweight standards and tooling to make it effortless to get, share, and validate data.
+  Data, tools, and lightweight standards to make a more open and interoperable 21st centruy workforce data ecosystem.
 baseurl: ""
-url: "http://frictionlessdata.io" # the base hostname & protocol for your site
-github_username:  frictionlessdata
-github_repo:  frictionlessdata.io
-paypal: admin@okfn.org
-contact: http://discuss.okfn.org/c/frictionless-data
+url: "http://dataatwork.org" # the base hostname & protocol for your site
+github_username:  workforce-data-initiative
+github_repo:  dataatwork.org
+paypal: admin@dataatwork.org
+contact: http://discuss.dataatwork.org/c/dataatwork
 editsitehowto: /about/edit-site/
 gems:
   - jekyll-redirect-from
@@ -20,10 +20,11 @@ supporters:
     footer_logo: sloan-footer.png
     url: http://www.sloan.org/
   -
-    name: Google
-    logo: google.png
-    footer_logo: google-footer.png
-    url: http://www.google.org/
+    name: J.P. Morgan Chase Foundation
+    logo: JPMorgan_Chase_Foundation.jpg
+    footer_logo: JPMorgan_Chase_Foundation.jpg
+    url: https://www.jpmorganchase.com/
+  -  
 
 googleanalytics: UA-33874954-38
 
@@ -42,6 +43,11 @@ defaults:
     values:
       layout: page
       edit: true
+  -
+    scope:
+      path: "data"
+    values:
+      section: data      
   -
     scope:
       path: "standards"

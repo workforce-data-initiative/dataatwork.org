@@ -19,9 +19,9 @@
     <li {% if url_last ==  'user-stories' %}class="Selected"{% endif %}>
       <a href="{{ site.baseurl }}/user-stories/">User Stories</a>
     </li>
-    
+
     <li {% if url_parts contains 'data-packages' %}class="Selected"{% endif %}>
-      <a href="{{ site.baseurl }}/data-packages/">Data Packages</a>
+      <a href="{{ site.baseurl }}/data-packages/">Data</a>
     </li>
     
     <li {% if url_last ==  'tools' %}class="Selected"{% endif %}>
@@ -34,6 +34,10 @@
     
     <li {% if url_last ==  'guides' %}class="Selected"{% endif %}>
       <a href="{{ site.baseurl }}/guides/">Guides</a>
+    </li>
+
+    <li {% if url_parts contains 'data-packages' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/data-packages/">Data Packages</a>
     </li>
     
     <li {% if url_last ==  'get-involved' %}class="Selected"{% endif %}>
@@ -57,7 +61,7 @@
     </li>
     
     <li>
-      <a href="http://specs.frictionlessdata.io/">
+      <a href="http://specs.dataatwork.org/">
         Specifications
       </a>
     </li>

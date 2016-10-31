@@ -5,9 +5,11 @@ title: Partners
 * ToC
 {:toc}
 
+#Open Skills Project 
+
 ## Technical Partners
 
-[![rOpenSci](/img/partners/ropensci.png)](https://ropensci.org/)
+[![University of Chicago Center for Data Science and Public Policy](/img/partners/)](https://ropensci.org/)
 
 **rOpenSci** is a collaborative effort to develop R-based tools for
 facilitating Open Science. It develops open source R packages that
@@ -22,15 +24,21 @@ Data Packages and will be the steward of these R libraries.
 
 ---
 
-[![ODI](/img/partners/odi.png)](http://www.opendata.institute)
+[![Knowledge Lab](/img/partners/odi.png)](http://www.opendata.institute)
 
-The **ODI** was co-founded in 2012 to address today’s global
-challenges using the web of data. It brings together commercial and
-non-commercial organisations and governments to equip and inspire
-people around the world to innovate with Data.
+The **Knowledge Labor** was founded in 2014 by James Evans.
 
-The ODI are the official maintainers of the Ruby libraries and we will
-collaborate on a number of tools for sharing and working with data.
+<http://www.opendata.institute>
+
+---
+
+## Data Cooprerative Partners
+
+---
+
+[![Knowledge Lab](/img/partners/odi.png)](http://www.opendata.institute)
+
+The **Knowledge Labor** was founded in 2014 by James Evans.
 
 <http://www.opendata.institute>
 
@@ -38,16 +46,9 @@ collaborate on a number of tools for sharing and working with data.
 
 ## Pilot Partners
 
-[![TEDDINET/DM4T](/img/partners/teddinet.png)](http://www.cs.bath.ac.uk/dm4t/index.shtml)
+[![Pairin](/img/partners/teddinet.png)](http://www.cs.bath.ac.uk/dm4t/index.shtml)
 
-**Data Management for TEDDINET (DM4T)** is set up to support TEDDINET
-(Transforming Energy Demand through Digital Innovation Network)
-collectively to construct a data legacy for the TEDDI, BuildTEDDI and
-the non-domestic buildings programmes as a whole.
-
-Open Knowledge International and DM4T will work together on a
-proof-of-concept pilot around data management using the Frictionless
-Data tools and specifications.
+**Pairin** 
 
 <http://www.cs.bath.ac.uk/dm4t/index.shtml>
 
