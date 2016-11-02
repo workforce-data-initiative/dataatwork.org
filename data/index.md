@@ -18,10 +18,8 @@ For more information on each specification, see below:
 ## Open Skills Data Collaborative Working Group
 
 ## Open Skills Research Working Group
-In recent years, job seekers across the U.S. have struggled to meet changing skill requirements across various sectors. Helping American workers train and qualify for available jobs requires information on what occupations and specific skills are most in-demand and accessible in their communities.
 
-DataAtWork is a data cooperative designed and developed to connect people to the jobs most suited for them.  The cooperative is a partnership between the Department of Labor, University of Chicago, and public and private partners. It is based at the Center for Data Science and Public Policy (DSaPP) at the University of Chicago. A growing coalition of data partners with rich data about the American workforce are joining to securely contribute data to a shared pool, with the goal of providing a better, more complete, and more up-to-date understanding of the skills required for every job in America.
-
+The Open Skills Research Working Group is dedicated to improving the machine learning methods necessary for translating workforce data into a rich skills taxonomy.
 
 ### What Has Been Done
 
