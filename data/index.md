@@ -19,7 +19,7 @@ For more information on each specification, see below:
 
 ## Open Skills Research Working Group
 
-The Open Skills Research Working Group is dedicated to improving the machine learning methods necessary for translating workforce data into a rich skills taxonomy.
+The Open Skills Research Working Group is dedicated to improving machine learning algorithms for translating workforce data into actionable insights about the dynamics of skills and jobs in the American economy. The Group is a made up of researchers from a variety of backgrounds with a main focus on natural language processing and large scale machine learning.
 
 ### What Has Been Done
 
