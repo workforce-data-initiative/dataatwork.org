@@ -1,4 +1,4 @@
-Dataatwork.org - the Data@Work project website.
+Dataatwork.org - the Data at Work project website.
 
 ## Contributing
 

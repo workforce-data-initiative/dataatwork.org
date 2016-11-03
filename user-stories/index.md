@@ -2,7 +2,7 @@
 title: User Stories
 ---
 
-A set of user stories to inform development of the Data@Work ecosystem.
+A set of user stories to inform development of the Data at Work ecosystem.
 
 ## Personas
 

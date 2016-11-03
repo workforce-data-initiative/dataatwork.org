@@ -16,7 +16,7 @@ Various people working with labor market data, including many of us here at the 
 
 We believe what is outlined above is a different and an especially powerful approach to improving that data ecosystem.
 
-## How do Data@Work standards relate Frictionless Data stanards put out by the Open Knowledge Foundation?
+## How do Data at Work standards relate Frictionless Data stanards put out by the Open Knowledge Foundation?
 
-The motive behind Data@Work is to make it easier to access, transport and validate critical types of workforce data.  We use the Frictionless Data standard because of it is the best available data standard supporting this goal.
+The motive behind Data at Work is to make it easier to access, transport and validate critical types of workforce data.  We use the Frictionless Data standard because of it is the best available data standard supporting this goal.
 

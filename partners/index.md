@@ -5,115 +5,75 @@ title: Partners
 * ToC
 {:toc}
 
-#Open Skills Project 
+# Open Skills Project 
 
-## Technical Partners
+==================
 
-[![University of Chicago Center for Data Science and Public Policy](/img/partners/)](https://ropensci.org/)
+## Research and Development Partners
 
-**rOpenSci** is a collaborative effort to develop R-based tools for
-facilitating Open Science. It develops open source R packages that
-provide programmatic access to a variety of scientific data, full-text
-of journal articles, and repositories that provide real-time metrics
-of scholarly impact.
-
-rOpenSci are the maintainers of the official R libraries for (Tabular)
-Data Packages and will be the steward of these R libraries.
-
-<https://ropensci.org/>
-
----
-
-[![Knowledge Lab](/img/partners/odi.png)](http://www.opendata.institute)
-
-The **Knowledge Labor** was founded in 2014 by James Evans.
-
-<http://www.opendata.institute>
+- Center for Data Science and Public Policy, University of Chicago
+- Knowledge Lab, University of Chicago
+- The Harris School of Public Policy
+- National Laboratory for Education Transformation
+- George Washington University
+- Federal Researve of Chicago
+- Coursera
 
 ---
 
 ## Data Cooprerative Partners
 
----
-
-[![Knowledge Lab](/img/partners/odi.png)](http://www.opendata.institute)
-
-The **Knowledge Labor** was founded in 2014 by James Evans.
-
-<http://www.opendata.institute>
-
----
-
-## Pilot Partners
-
-[![Pairin](/img/partners/teddinet.png)](http://www.cs.bath.ac.uk/dm4t/index.shtml)
-
-**Pairin** 
-
-<http://www.cs.bath.ac.uk/dm4t/index.shtml>
+- Department of Labor 
+- O*NET
+- Bureau of Labor Statistics
+- National Labor Exchange
+- ADP
+- Career Builder
+- Pairin
+- ESCO
 
 ---
 
-[![Stephen Eglen, University of Cambridge](/img/partners/cambridge.png)](http://sje30.github.io/)
+## Software and Data User Partners
 
-**Stephen Eglen**, a Reader in Computational Neuroscience at the
-University of Cambridge, is working with us to investigate the
-applicability of the Data Package concept to facilitate data reuse.
-
-Together, we are trialling tools for packaging and reading nervous
-system data using R.
-
-<http://sje30.github.io/>
-
----
-
-[![WPRDC](/img/partners/wprdc.png)](https://www.wprdc.org/)
-[![UPCUSR](/img/partners/upcusr.png)](http://ucsur.pitt.edu/)
-
-**The Western Pennsylvania Regional Data Center** provides a shared
-technological and legal infrastructure to support research, analysis,
-decision making, and community engagement.
-
-We will be working with the University of Pittsburgh Center for Urban
-and Social Research to pilot a number of frictionless data tools on
-the portal including the Data Quality Dashboard, GoodTables and
-integrations with CKAN.
-
-<https://www.wprdc.org/>
-
-<http://ucsur.pitt.edu/>
+- Career One Stop
+- O*NET
+- Pairin
+- Ushahidi
+- Innovate Educate
+- Hacker Nest
+- Coursera
+- Code for America
 
 ---
 
-[![Dataship](/img/partners/dataship.png)](https://dataship.io/)
+# Training Provider Outcomes Toolkit
 
-**Dataship** is a way to share data and analysis, from simple charts
-to complex machine learning, with anyone in the world easily and for
-free. It allows the creation of notebooks that hold and deliver your
-data, as well as text, images and inline scripts for doing analysis
-and visualization.
+===============
 
-Data Package is the native format for the Dataship notebook.
-Together, we have published the following
-[Case Study](/case-studies/dataship/) documenting the use of the
-Frictionless Data specifications in this tool.
+## Government Partners
 
-<https://dataship.io/>
+- Employment and Training Administration
 
----
+## Policy and Advocacy Partners
 
-[![PNNL](/img/partners/pnnl.png)](http://www.pnnl.gov/)
+- Workforce Data Quality Campaing
+- National Association for State Workforce Agencies
 
-**Pacific Northwest National Laboratory (PNNL)** is one of the United
-States Department of Energy national laboratories, managed by the
-Department of Energy's Office of Science. PNNL scientists conduct
-basic and applied research and development to strengthen
-U.S. scientific foundations for fundamental research and innovation.
+## Research and Development Partners
 
-Open Knowledge International will be piloting some tools and work on
-fixes and enhancements to specific use cases within the PNNL
-workflow. Work will include the integration of Good Tables for data
-validation on repositories that are used by the Active Data app and
-piloting some tools for editing data directly.
+- Center for Data Science and Public Policy, University of Chicago
+- Booz, Allen, Hamilton
 
-<http://www.pnnl.gov/>
+## State and Local Pilot Partners
+
+- State of California
+- San Diego Workforce Partnership
+- State of Ohio
+- State of Tennessee
+
+
+
+
+
+
