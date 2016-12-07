@@ -44,7 +44,7 @@ We are improving job title, skill normalization research by making it easier to 
 - [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 
 
-If you are interested in learning more about the research technical group, email us at datascifellows@gmail.com
+If you are interested in learning more about the research technical group, email us at info@dataatwork.org
 
 ## Open Skills Developer Working Group
 
