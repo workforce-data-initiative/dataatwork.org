@@ -4,7 +4,7 @@ short_title: Data at Work
 description: |
   Data, tools, and lightweight standards to make a more open and interoperable 21st centruy workforce data ecosystem.
 baseurl: ""
-url: "http://dataatwork.org" # the base hostname & protocol for your site
+url: "http://workforce-data-initiative.github.io/dataatwork.org" # the base hostname & protocol for your site
 github_username:  workforce-data-initiative
 github_repo:  dataatwork.org
 paypal: admin@dataatwork.org
