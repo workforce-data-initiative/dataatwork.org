@@ -17,6 +17,6 @@ A set of user stories to inform development of the Data at Work ecosystem.
 
 User stories for are managed on a Trello board which you can view below.  Click through to leave a comment or subscribe to user stories you're interested in.
 
-<iframe width="100%" height="725px" src="https://trello.com/b/WPPGNArj"></iframe>
+<iframe width="100%" height="725px" src="https://trello.com/b/WPPGNArj.html"></iframe>
 
 
