@@ -1,32 +1,41 @@
 ---
-title: Open Skills API
+title: Open Skills Project
 ---
 
-The Open Skills Project is a public-private partnership lead by the University of Chicago focused on providing a dynamic, up-to-date, locally-relevant, and normalized taxonomy of skills and jobs that builds on and expands on the Department of Labor's O*NET data resources. It's aim is to improve our understanding of the labor market and reduce frictions in the workforce data ecosystem by enabling a more granualr common language of skills among industry, academia, government, and nonprofit organizations.
+The Open Skills Project is a public-private partnership lead by the University of Chicago focused on providing a dynamic, up-to-date, locally-relevant, and normalized taxonomy of skills and jobs that builds on and expands on the Department of Labor's O\*NET data resources. It's aim is to improve our understanding of the labor market and reduce frictions in the workforce data ecosystem by enabling a more granular common language of skills among industry, academia, government, and nonprofit organizations.
 
-
-<img src="https://docs.google.com/drawings/d/19DTSTlxkOdTgieTWhnTNLAZtxn_ie63DV-vEGW_TP_E/pub?w=960&amp;h=720">
-
-For more information on each specification, see below:
 
 ## Open Skills API
 
-- [Overview][d]
-- [Full Specification][spec-d]
+The Open Skills API is an interface for developers to build applications using data produced by the Open Skills Project.
 
-## Open Skills Data Collaborative Working Group
+- [Overview](https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview)
+- [Explore the API](http://api.dataatwork.org/v1/spec/)
 
-## Open Skills Research Working Group
+## Open Skills Research Hub
+
+The Open Skills Research Hub is a collection of public datasets produced by the Open Skills Project for the purpose of collaborative research.
+
+- [Explore the Research Datasets](/data/research/)
+
+## Working Groups
+
+### Open Skills Data Collaborative Working Group
+
+Coming soon!
+
+### Open Skills Research Working Group
+
 
 The Open Skills Research Working Group is dedicated to improving machine learning algorithms for translating workforce data into actionable insights about the dynamics of skills and jobs in the American economy. The Group is a made up of researchers from a variety of backgrounds with a main focus on natural language processing and large scale machine learning.
 
-### What Has Been Done
+#### What Has Been Done
 
 
 Currently we have a machine learning pipeline, in Airflow and as Python scripts, that provides classes to preprocess data with NLP transforms, ingest known skills and job titles, label skills, job titles within corpora, generate special representations of skills and job titles and, finally, save off version controlled instances of data and outputs flowing through the pipeline stages.
 
 
-### What We Are Working on Now
+#### What We Are Working on Now
 
 
 We are working on skill tagging, using NLP and other strategies, to identify known and unknown skills present in our partner data and other open sources. We use neural embeddings supplemented with more traditional NLP techniques for additional flexibility, which is especially important as new skills emerge over time.
@@ -35,7 +44,7 @@ We are working on skill tagging, using NLP and other strategies, to identify kno
 We are improving job title, skill normalization research by making it easier to automatically extract skills, job titles as their canonical names from unlabeled text. We're particularly focused on generating suitable neural embeddings for these canonical normalization tasks and building skill and job title classifiers. Skill tagging, the initial identification of skills from unannotated text, also falls into this area of work. For skill, job title labeling, we are exploring active learning techniques to help the community generate quality labeled data at scale that is available for all.
 
 
-### Research Papers Used
+#### Research Papers Used
 - [Concept-Based Information Retrieval using Explicit Semantic Analysis](http://www.cs.technion.ac.il/~gabr/publications/papers/Egozi2011CBI.pdf)
 - [Bringing Order to the Job Market: Efficient Job Offer Categorization in E-Recruitment](http://www.ai.univ-paris8.fr/~cataldi/papers/sigir2015.pdf)
 - [Semantic Similarity Strategies for Job Title Classification](https://arxiv.org/pdf/1609.06268v1.pdf)
@@ -45,7 +54,9 @@ We are improving job title, skill normalization research by making it easier to 
 
 If you are interested in learning more about the research technical group, email us at info@dataatwork.org
 
-## Open Skills Developer Working Group
+### Open Skills Developer Working Group
+
+Coming soon!
 
 {%include markdown-link-refs.html %}
 

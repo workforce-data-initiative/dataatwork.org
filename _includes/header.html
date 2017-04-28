@@ -20,8 +20,12 @@
       <a href="{{ site.baseurl }}/user-stories/">User Stories</a>
     </li>
 
+    <li {% if url_parts contains 'data' %}class="Selected"{% endif %}>
+      <a href="{{ site.baseurl }}/data/">Open Skills Data</a>
+    </li>
+
     <li {% if url_parts contains 'data-packages' %}class="Selected"{% endif %}>
-      <a href="{{ site.baseurl }}/data-packages/">Data</a>
+      <a href="{{ site.baseurl }}/data-packages/">Training Provider Data Packages</a>
     </li>
     
     <li {% if url_last ==  'tools' %}class="Selected"{% endif %}>
@@ -36,10 +40,6 @@
       <a href="{{ site.baseurl }}/guides/">Guides</a>
     </li>
 
-    <li {% if url_parts contains 'data-packages' %}class="Selected"{% endif %}>
-      <a href="{{ site.baseurl }}/data-packages/">Data Packages</a>
-    </li>
-    
     <li {% if url_last ==  'get-involved' %}class="Selected"{% endif %}>
       <a href="{{ site.baseurl }}/get-involved/">Get Involved</a>
     </li>
