@@ -640,7 +640,7 @@ body:not( .filters ) {
     line-height:60px;
     text-transform:uppercase;
     font-weight:700;
-    display:block;
+    display:inline-block;
     margin-left: 75px;
     
     @include media($small-screen) {
@@ -660,6 +660,19 @@ body:not( .filters ) {
           content: "\e034";
         }
       }
+    }
+  }
+
+  .upcoming-thing {
+    line-height:60px;
+    display:inline-block;
+    font-weight: bold;
+    float: right;
+    margin-right: 75px;
+
+    @include media($small-screen) {
+      letter-spacing:2px;
+      font-size:rem(14);
     }
   }
 }

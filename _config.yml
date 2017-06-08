@@ -1,6 +1,8 @@
 # Site settings
 title: Data at Work
 short_title: Data at Work
+upcoming_thing: "June 21: Data@Work Research Hub Webinar"
+upcoming_thing_url: "https://dsapp-data-at-work-research-hub.eventbrite.com/"
 description: |
   Data, tools, and lightweight standards to make a more open and interoperable 21st centruy workforce data ecosystem.
 baseurl: ""
