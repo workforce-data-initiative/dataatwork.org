@@ -10,7 +10,7 @@ url: "http://dataatwork.org" # the base hostname & protocol for your site
 github_username:  workforce-data-initiative
 github_repo:  dataatwork.org
 paypal: admin@dataatwork.org
-contact: http://discuss.dataatwork.org/c/dataatwork
+contact: http://dataatwork.org/get-involved/#contact
 editsitehowto: /about/edit-site/
 gems:
   - jekyll-redirect-from
