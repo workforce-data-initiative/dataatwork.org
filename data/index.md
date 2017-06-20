@@ -16,7 +16,11 @@ The Open Skills API is an interface for developers to build applications using d
 
 The Open Skills Research Hub is a collection of public datasets produced by the Open Skills Project for the purpose of collaborative research.
 
-Coming soon!
+[Explore the Research Hub](/data/research/)
+
+We are excited to announce that Data@Work will provide a $5,000 research grant for up to 3 selected proposals to support their work for using the new data from the Research Hub! 
+
+[Apply Here](https://goo.gl/forms/V6k8ZWvymyeuv6Sk2) (applications due July 21)
 
 ## Working Groups
 
