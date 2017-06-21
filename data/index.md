@@ -18,7 +18,7 @@ The Open Skills Research Hub is a collection of public datasets produced by the 
 
 [Explore the Research Hub](/data/research/)
 
-We are excited to announce that Data@Work will provide a $5,000 research grant for up to 3 selected proposals to support their work for using the new data from the Research Hub! 
+We are excited to announce that Data@Work will provide a $10,000 research grant for up to 3 selected whitepapers to support their work for using the new data from the Research Hub! 
 
 [Apply Here](https://goo.gl/forms/V6k8ZWvymyeuv6Sk2) (applications due July 21)
 
