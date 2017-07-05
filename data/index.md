@@ -26,10 +26,11 @@ We are excited to announce that Data@Work will provide a $10,000 research grant 
 
 ### Open Skills Data Collaborative Working Group
 
-Coming soon!
+Partners contribute data to the cooperative, benefitting not only from the rich, dynamic insights of the integrated data but also from sitting on an advisory governance board to guide the evolution of the cooperative.
+
+[Join the Workforce Data Skills Cooperative](https://drive.google.com/file/d/0BxPHAjwMXg8nZXQ4bEFwSTF0RGM/view?usp=sharing)
 
 ### Open Skills Research Working Group
-
 
 The Open Skills Research Working Group is dedicated to improving machine learning algorithms for translating workforce data into actionable insights about the dynamics of skills and jobs in the American economy. The Group is a made up of researchers from a variety of backgrounds with a main focus on natural language processing and large scale machine learning.
 
