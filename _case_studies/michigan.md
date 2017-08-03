@@ -1,6 +1,7 @@
 ---
 name: Michigan
 site: http://workforcedqc.org/
+authors: Workforce Data Quality Campaign
 logo: wdqc.png
 ---
 
