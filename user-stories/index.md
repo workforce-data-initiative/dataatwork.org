@@ -1,5 +1,5 @@
 ---
-title: User Stories
+title: User Stories and Case Studies
 ---
 
 A set of user stories to inform development of the Data at Work ecosystem.
@@ -12,6 +12,16 @@ A set of user stories to inform development of the Data at Work ecosystem.
 - Researcher: A person conducting data-intensive research.
 - Publisher: A person or organization looking to publish datasets.
 - Developer: A person working on developing tooling the creates or consumes Skills, Jobs, or Training Outcomes Data.
+
+## Case Studies
+We're curious to learn about some of the common issues users face when
+working with skills and training outcomes data.  In our Case Study series, we are highlighting
+projects and organisations who are working with the Data at Work
+APIs and tooling in interesting and innovative ways.
+
+{% for case_study in site.case_studies %}
+* [{{ case_study.authors }}: {{case_study.title}}]({{ case_study.url }})
+{% endfor %}
 
 ## User Stories
 

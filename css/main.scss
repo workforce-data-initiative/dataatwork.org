@@ -328,7 +328,7 @@ pre,
           }
           
           &:last-child:after {
-            content:'.';
+            content:'';
           }
         }
       }
