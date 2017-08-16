@@ -1418,7 +1418,7 @@ html.mm-background .mm-page,
     & > div {
       padding:$base-spacing;
       @include media($medium-screen) {
-        @include span-columns(4);
+        @include span-columns(6);
         position:relative;
         padding-top: $base-spacing * 2;
         
