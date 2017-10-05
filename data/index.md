@@ -20,8 +20,7 @@ The Open Skills Research Hub is a collection of public datasets produced by the 
 
 ## Funded Research Opportunity
 
-We are excited to announce that Data@Work will provide a $10,000 research grant for up to 3 selected whitepapers to support their work for using the new data from the Research Hub! Use the template found [HERE](https://docs.google.com/document/d/1l0PoDMAfYjVfoPo7FrzAfX5o1t8rRKoghVPlrm94318/edit?usp=sharing) and submit your research plan and paper outline to [dsapp.data.at.work@gmail.com](mailto:dsapp.data.at.work@gmail.com). The deadline for this submission is **September 15, 2017**. We will select up to three participants by September 29 to reseive the research stipend and half of the amount ($5,000) will be awarded immediately.
-
+Data@Work has selected recipients of the Research Hub Funded Research Opportunity. Stay tuned for more information!
 
 ## Working Groups
 
