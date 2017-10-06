@@ -18,6 +18,12 @@ The Open Skills Research Hub is a collection of public datasets produced by the 
 
 [Explore the Research Hub](/data/research/)
 
+## Representativeness Analysis
+
+Understanding how our data relates to the labor market is important to us at Data@Work.
+
+[Explore Representativeness Analysis of the Research Hub](/data/representativeness)
+
 ## Funded Research Opportunity
 
 Data@Work has selected recipients of the Research Hub Funded Research Opportunity. Stay tuned for more information!
