@@ -34,7 +34,7 @@ Data@Work has selected recipients of the Research Hub Funded Research Opportunit
 
 Partners contribute data to the cooperative, benefitting not only from the rich, dynamic insights of the integrated data but also from sitting on an advisory governance board to guide the evolution of the cooperative.
 
-[Join the Workforce Data Skills Cooperative](https://drive.google.com/file/d/0BxPHAjwMXg8nSTZxOEFMZEtJT3QyRW1LMzFyU2EwZ1A4RHdz/view?usp=sharing)
+[Join the Workforce Data Skills Cooperative](https://drive.google.com/file/d/1XZr0iMXiP_Ao73z4Z67XJzs0LvlWebEJ/view?usp=sharing)
 
 ### Open Skills Research Working Group
 
