@@ -27,8 +27,17 @@ Data at Work hosts monthly researcher's calls to continue the conversation with 
 
 #### Upcoming Researchers Calls
 
-- [January 24, 2018](https://www.eventbrite.com/e/datawork-researchers-call-january-2018-tickets-41393799970) - Sarah Bana presents her research "The Effect of Additional Authority on Job Postings: The Case for Nurse Practitioners".
+- [March 27, 2018](https://www.eventbrite.com/e/datawork-researchers-call-march-2018-tickets-44371207476) - Matt Gee talks about a new initiative with the US Chamber of Commerce Foundation and Lumina Foundation
 
+
+#### Past Researchers Calls
+
+- [February 21, 2018 (slides)](https://drive.google.com/file/d/1CuyEP-zG7gYzQrAPeIdJcj9ulzghIoIF/view?usp=sharing) - The team presented its work on skill extraction and labeling
+- [January 24, 2018 (slides)](https://drive.google.com/file/d/1A6diLE34IlVV7PYnCJeoe3-eIVgikOl0/view?usp=sharing) - Sarah Bana presented her work "The Effect of Additional Authority on Job Postings: The Case for Nurse Practitioners".
+- [December 6, 2017 (slides)](https://drive.google.com/file/d/1SGGFW0AExY9hz44TmQ21qIFfXUYukj3L/view?usp=sharing) - Shade Shutters presented his work "Labor Analytics for Targeted Growth"
+- [October 25, 2017 (slides)](https://drive.google.com/file/d/0BxPHAjwMXg8nZFZHTFpKSzJ6TTA/view?usp=sharing) - Steven Davis and Brenda Samaniego de la Parra presented their work "The DHI Vacancy and Application Flow Database"
+- [September 13, 2017 (slides)](https://docs.google.com/presentation/d/1MhqxRQdWUMbGquTCn2v9srQYXcuMOIC6q4nXc3aN7go/edit?usp=sharing) - Nayoung Rim presented her work "Costs of Occupation Switching"
+- [June 21, 2017 (slides)](https://docs.google.com/presentation/d/1dax7yuI1tpgl1zVSxEGa156ViDj9zLXvnWP64L-efVs/edit?usp=sharing) - The team announced the Labor Market Research Database and Research Funding Opportunity
 
 ## Contact
 
