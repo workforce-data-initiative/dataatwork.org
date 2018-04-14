@@ -27,11 +27,10 @@ Data at Work hosts monthly researcher's calls to continue the conversation with 
 
 #### Upcoming Researchers Calls
 
-- [March 27, 2018](https://www.eventbrite.com/e/datawork-researchers-call-march-2018-tickets-44371207476) - Matt Gee talks about a new initiative with the US Chamber of Commerce Foundation and Lumina Foundation
-
 
 #### Past Researchers Calls
 
+- [March 27, 2018 (slides)](https://drive.google.com/file/d/1dpipuJ7007fMsvkzI-SIH2MCRPKSE5Za/view?usp=sharing) - Matt Gee talks about a new initiative with the US Chamber of Commerce Foundation and Lumina Foundation
 - [February 21, 2018 (slides)](https://drive.google.com/file/d/1CuyEP-zG7gYzQrAPeIdJcj9ulzghIoIF/view?usp=sharing) - The team presented its work on skill extraction and labeling
 - [January 24, 2018 (slides)](https://drive.google.com/file/d/1A6diLE34IlVV7PYnCJeoe3-eIVgikOl0/view?usp=sharing) - Sarah Bana presented her work "The Effect of Additional Authority on Job Postings: The Case for Nurse Practitioners".
 - [December 6, 2017 (slides)](https://drive.google.com/file/d/1SGGFW0AExY9hz44TmQ21qIFfXUYukj3L/view?usp=sharing) - Shade Shutters presented his work "Labor Analytics for Targeted Growth"
