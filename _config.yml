@@ -1,8 +1,8 @@
 # Site settings
 title: Data at Work
 short_title: Data at Work
-upcoming_thing: "Help Us Annotate Skills!"
-upcoming_thing_url: "https://docs.google.com/forms/d/1KRVF8c8BuQAa6MYGCMBZPxTS2ub9e58OsMzFhmFJYHQ/edit"
+upcoming_thing: "Read the Skills-ML Whitepaper!"
+upcoming_thing_url: "/skills-ml/#whitepaper"
 description: |
   Data, tools, and lightweight standards to make a more open and interoperable 21st century workforce data ecosystem.
 baseurl: ""
@@ -57,9 +57,9 @@ defaults:
       section: standards
   -
     scope:
-      path: "tools"
+      path: "skills-ml"
     values:
-      section: tools
+      section: skills-ml
   -
     scope:
       path: "guides"
