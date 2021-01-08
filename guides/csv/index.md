@@ -57,7 +57,7 @@ structure. Key options are:
 
 * Field delimiter: rather than comma `,` people often use things like `\t`
   (tab), `;` or `|`
-* Record terminator / line terminator: is `\n` (unix), `\n\r` (dos) or something else ...
+* Record terminator / line terminator: is `\n` (unix), `\r\n` (dos) or something else ...
 * How do you quote records that contain your delimiter
 
 You can read more in the [CSV Dialect Description Format][spec-csvddf] which defines
